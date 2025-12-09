@@ -157,8 +157,8 @@ The application will automatically open in your default browser at `http://local
 
 ## 📝 Author
 
-**[Your Name Here]**
-*AI Engineer & Full-Stack Developer*
+**[Vincent Ong]**
+*Will-be AI Engineer*
 
 ---
 
