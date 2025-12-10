@@ -168,7 +168,7 @@ def app():
                         st.session_state['raw_html'] = raw
                         st.success(f"Fetched {len(raw):,} chars.")
                         with st.expander("View Raw HTML Source"):
-                            st.code(raw[:2000] + "...", language="html")
+                            st.code(raw[:20000] + "...", language="html")
 
         with col2:
             st.subheader("Method B: Common Crawl")
